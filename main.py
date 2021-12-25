@@ -1,4 +1,3 @@
-from optimize import gradient_descend
 from math import sqrt, exp, pi
 from scipy.special import erf
 from typing import List
